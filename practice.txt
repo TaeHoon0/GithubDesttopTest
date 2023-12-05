@@ -4,4 +4,4 @@ CI / CD 를 위한 연습
 
 MS에서 만든 
 
-revert 연습
+revert 연습의 연습
